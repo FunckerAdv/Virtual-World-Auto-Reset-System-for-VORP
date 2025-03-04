@@ -20,3 +20,6 @@ Displays debug messages in the console to monitor and track players' Virtual Wor
 🔹 Main goal of this script: Ensures that no player remains stuck in a Virtual World and that everyone is in VW 0, preventing bugs and instancing issues. 🚀
 
 I couldn't find such a script on the internet so I'm posting my own script here!
+
+Script for RedM
+framework VORP
